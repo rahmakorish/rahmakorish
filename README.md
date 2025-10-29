@@ -33,7 +33,7 @@ I love building responsive, interactive, and modern web apps that feel good to u
 <h3 align="center">💡 A Little About Me</h3>
 
 <p align="center">
-🌱 Currently learning <strong>React</strong> and <strong>Node.js</strong> through real-world projects<br>
+🌱 Currently learning <strong>Angular</strong> and <strong>Node.js</strong> through real-world projects<br>
 ⚙️ Experienced in building <strong>CRUD operations</strong>, <strong>API integration</strong>, and <strong>responsive UIs</strong><br>
 🎓 Graduated with a <strong>Diploma in Computer Science</strong> (GPA 3.48/4.0) from Cairo University<br>
 🧠 Completed multiple hands-on courses at <strong>Route</strong> and <strong>NTI</strong><br>
